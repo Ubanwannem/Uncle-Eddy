@@ -1,0 +1,85 @@
+
+.card-group{
+  text-align: center;
+}
+
+  .card-1{
+    background-color:#F9ED69;
+
+  }
+
+  .card-2{
+    background-color: #F08A5D;
+  }
+
+  .card-3{
+    background-color:#B83B5E;
+  }
+.img-1{
+  width: 50%;
+  margin: auto;
+}
+
+.img-2{
+  width: 60%;
+  margin: auto;
+}
+
+.img-3{
+  width:70%;
+  margin: auto;
+    /* margin-top: 50px; */
+}
+
+/* hoverstate */
+.card-1:hover{
+  background-color:#B270A2;
+  color: #fff;
+}
+
+.card-2:hover{
+  background-color: #7A4495;
+  color: #fff;
+}
+
+.card-3:hover{
+  background-color: #FCE2DB;
+  color: #fff;
+}
+
+/* .text-muted:hover{
+  color: #FFFFD2;
+} */
+
+.cardb-1{
+  width: 100%;
+  margin-top: 400px;
+    position: absolute;
+  z-index: +1;
+  background-color: #F08A5D;
+}
+
+.cardb-2{
+  width: 100%;
+  margin-top: 427px;
+  position: absolute;
+  z-index: +1;
+  background-color: #B83B5E;
+}
+
+.cardb-3{
+  margin-top: 450px;
+  position: absolute;
+  z-index: +1;
+  background-color: #F9ED69;
+}
+
+.cardf-1:hover{
+  background-color: #FCE2DB;
+}
+.cardf-2:hover{
+  background-color: #FCE2DB;
+}
+.cardf-3:hover{
+  background-color:#F08A5D;
+}
